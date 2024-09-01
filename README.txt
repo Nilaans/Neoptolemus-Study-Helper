@@ -1,3 +1,10 @@
+Prerequisites:
+	pandas
+	transformer
+	
+	type the following into the terminal 
+		(pip install pandas transformer)
+
 How to use the Neoptolemus Study Helper:
 	Upload your notes as a .csv fil
 		(Make column 1, terms and column 2, definitions)
